@@ -58,10 +58,10 @@ class Class1
 
 }
 
-public interface MyInterface
+public interface IMyInterface
 {
 }
-public class MyClass : MyInterface
+public class MyClass : IMyInterface
 {
     public void MyMethod()
     {
